@@ -1,5 +1,5 @@
 # About Me:
-Software engineering student at UNC Charlotte, graduating December 2026. I build mobile apps and full-stack systems. Currently co-founding an iOS wellness app called Lucive. I've worked on everything from machine learning projects to full-stack work, and I'm always looking to learn something new.
+CS @ UNCC. I build mobile apps and full-stack systems. Currently co-founding Lucive, with our iOS wellness app being developed called Camp. I've worked on everything from machine learning projects to full-stack work, and I'm always looking to learn something new.
 
 
 # Tech Stack:
